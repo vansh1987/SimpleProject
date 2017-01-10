@@ -1,0 +1,15 @@
+Rules of interface:
+
+Rule 1: - By default all the member methods of an interface are "abstract".
+
+Rule 2: - A child class has to implements(not override) all the methods of an interface.
+		  (word "implements" is used rather than override because child class is just implementing
+		  the standards define by interface, not extending its functionality.
+		  
+Rule 3: - While giving the body of a member method of interface (in child class make it public).
+		  (just because its execution is handled by interface itself i.e it is being called from outside the class)
+		  (Only public, static, abstract,default,strictfp are permitted.)
+		  
+Rule 4: - By default all the methods of an interface are "public".
+
+Rule 5: - One class can implements more than one interface simultanously.
