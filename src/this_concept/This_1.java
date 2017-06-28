@@ -43,7 +43,7 @@ public class This_1 {
 	{
 		System.out.println("U have enter wrong value");
 	}
-	
+	sc.close();
 	}
 
 }

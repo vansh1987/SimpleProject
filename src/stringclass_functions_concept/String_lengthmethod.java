@@ -11,10 +11,8 @@ public class String_lengthmethod
 		System.out.println(str.length());
 		//Math math = null;
 		System.out.println(Math.addExact(10, 20));
-		Method_type1 m = null;
-		m.firstmethod();
-		
-	
+		//Method_type1 m = null;
+		//m.firstmethod();	
 	}
 
 }

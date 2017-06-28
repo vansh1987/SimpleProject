@@ -29,7 +29,7 @@ public class Employee_1
 		int salary = 0;
 		int age;
 				
-		Employee_1 e = new Employee_1();
+		//Employee_1 e = new Employee_1();
 		Scanner a = new Scanner(System.in);
 		a.close();
 		try
