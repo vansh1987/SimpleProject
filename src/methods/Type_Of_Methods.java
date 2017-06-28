@@ -14,7 +14,7 @@ public class Type_Of_Methods
 
 	public int Method2()
 	{
-		return 0;	// RETURNING INTERGER VALUE ONLY.
+		return 1;	// RETURNING INTERGER VALUE ONLY.
 	}
 
 	public char Method3()
