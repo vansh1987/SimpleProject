@@ -27,4 +27,22 @@ public class Type_Of_Methods
 		return "Hello";	// RETURNING STRING VALUE ONLY.
 	}
 	
+	public boolean Method5()
+	{
+		return true;	// RETURNING BOOLEAN VALUE ONLY.
+	}
+	public float Method6()
+	{
+		return 1.5f;	// RETURNING FLOAT VALUE ONLY.
+	}
+	public double Method7()
+	{
+		return 100000.0D;	// RETURNING DOUBLE VALUE ONLY.
+	}
+	
+	public long Method8()
+	{
+		return 10214587549875423L;	// RETURNING LONG VALUE ONLY.
+	}
+	
 }
