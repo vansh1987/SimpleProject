@@ -1,6 +1,6 @@
 package stringclass_functions_concept;
 
-import methods.Method_type1;
+//import methods.Method_type1;
 
 public class String_lengthmethod 
 {

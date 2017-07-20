@@ -8,6 +8,7 @@ public class InstanceVariable
 	{
 		String nameinput = "Hello";
 		System.out.println(name);
+		System.out.println(nameinput);
 	}
 	
 
