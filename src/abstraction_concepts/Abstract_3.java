@@ -8,6 +8,7 @@ public abstract class Abstract_3
 	
 	public void breath()
 	{
+		
 		System.out.println("Breath Function");
 	}
 	
