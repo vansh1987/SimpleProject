@@ -8,8 +8,6 @@ public class Polymorphism_2
 		Polymorphism_2 p = new Polymorphism_2();
 		p.walk(10l,15);
 		//System.out.println(p.walk(24,15l));
-		
-
 	}
 	
 	public void walk(int i, long l)
