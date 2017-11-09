@@ -13,8 +13,12 @@ public class Maths
 		if(number_2> number_1)
 		{
 			System.out.println("Please enter valid number");
+			return 0;
 		}
-			return number_1 - number_2;
+		else
+		{
+		return number_1 - number_2;
+		}
 	}
 	
 	public float mult(int number_1, int number_2)

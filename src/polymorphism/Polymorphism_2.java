@@ -6,7 +6,7 @@ public class Polymorphism_2
 	public static void main(String[] args) 
 	{
 		Polymorphism_2 p = new Polymorphism_2();
-		p.walk(10l,15);
+		p.walk(10,15L);
 		//System.out.println(p.walk(24,15l));
 	}
 	
