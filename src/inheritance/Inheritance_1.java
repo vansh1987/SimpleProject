@@ -21,5 +21,15 @@ public class Inheritance_1 extends Maths
 		int sum = i.add(10, 9);
 		System.out.println(sum);
 	}
+	
+	public void eat()
+	{
+		System.out.println("Eating");
+	}
+
+	public void walk()
+	{
+		System.out.println("Walking");
+	}
 
 }
